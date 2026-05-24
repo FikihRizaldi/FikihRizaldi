@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Fikih%20Rizaldi&fontSize=42&fontAlignY=35&animation=fadeIn&color=0:6C63FF,100:3B82F6&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fikih%20Rizaldi&fontSize=45&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:6C63FF,50:7C3AED,100:3B82F6"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Building+Modern+Websites;UI%2FUX+Enthusiast;AI+Web+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Fullstack+Learner;Building+Creative+Digital+Experiences"/>
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Based%20In-Indonesia-3B82F6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Loves-Modern%20UI-8B5CF6?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Based%20in-Indonesia-111827?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -20,11 +19,34 @@
 
 ```javascript
 const fikih = {
-  role: "Frontend Developer",
-  passion: ["Modern UI", "Interactive Website", "AI Technology"],
-  stack: ["React", "Vite", "PHP", "Firebase"],
-  currentlyLearning: ["Fullstack Development", "Machine Learning"],
-  mindset: "Keep building and improving 🚀"
+  role: [
+    "Frontend Developer",
+    "AI Engineer",
+    "Web Designer"
+  ],
+
+  focus: [
+    "Modern UI/UX",
+    "AI Web Application",
+    "Interactive Website",
+    "Frontend Development"
+  ],
+
+  techStack: [
+    "React",
+    "Vite",
+    "PHP",
+    "Firebase",
+    "JavaScript"
+  ],
+
+  currentlyLearning: [
+    "Fullstack Development",
+    "Machine Learning",
+    "AI Integration"
+  ],
+
+  motto: "Build something modern and impactful 🚀"
 }
 ```
 
@@ -34,7 +56,7 @@ const fikih = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,php,mysql,firebase,nodejs,figma,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,nextjs,tailwind,nodejs,php,mysql,firebase,python,tensorflow,figma,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -44,15 +66,15 @@ const fikih = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FikihRizaldi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FikihRizaldi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikihRizaldi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikihRizaldi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FikihRizaldi&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=FikihRizaldi&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
 
 </div>
 
@@ -62,11 +84,12 @@ const fikih = {
 
 <div align="center">
 
-| Project | Description |
+| 🚀 Project | 💡 Description |
 |---|---|
-| 🌐 UpSite | Modern company profile website |
-| 🤖 AI Web App | AI-powered website project |
-| 💼 Portfolio Website | Interactive personal portfolio |
+| UpSite | Modern company website with futuristic UI |
+| AI Web App | AI-powered web application project |
+| Portfolio Website | Interactive personal portfolio |
+| Monitoring System | Real-time web monitoring platform |
 
 </div>
 
@@ -80,6 +103,10 @@ const fikih = {
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="https://fikih-porto.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -90,6 +117,6 @@ const fikih = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:3B82F6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:7C3AED,100:3B82F6"/>
 
 </div>
