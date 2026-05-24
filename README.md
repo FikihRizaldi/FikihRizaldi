@@ -1,39 +1,51 @@
 <div align="center">
 
-# Fikih Rizaldi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fikih%20Rizaldi&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:6C63FF,100:3B82F6"/>
 
-### Frontend Developer • AI Engineer • UI/UX Designer
-
-Building modern websites, AI applications, and interactive digital experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Building+Creative+Digital+Experiences"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Fullstack+Learner"/>
+<img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# ✨ About Me
 
-- 💻 Passionate about modern website development
-- 🤖 Interested in AI & automation systems
-- 🎨 Love creating clean and futuristic UI/UX
-- ⚡ Currently learning Fullstack & AI Integration
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+### 👋 Hey, I'm Fikih Rizaldi
+
+🚀 Frontend Developer & AI Engineer from Indonesia  
+💻 Passionate about building modern websites, AI applications, and futuristic UI/UX experiences  
+⚡ Focused on creating interactive, clean, and impactful digital products
+
+<br/>
+
+### 🧠 Currently Exploring
+
+- Modern Frontend Development
+- AI Integration & Automation
+- Fullstack Web Development
+- Creative UI/UX Design
 
 ---
 
-## ⚒️ Tech Stack
+# ⚒️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,nodejs,php,mysql,firebase,python,figma,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,nodejs,php,mysql,firebase,python,tensorflow,figma,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -41,25 +53,34 @@ Building modern websites, AI applications, and interactive digital experiences.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikihRizaldi&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</div>
+
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=FikihRizaldi&theme=tokyonight&hide_border=true"/>
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=FikihRizaldi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description |
+<div align="center">
+
+| 🚀 Project | 💡 Description |
 |---|---|
 | 🌐 UpSite | Modern company profile website |
 | 🤖 AI Web App | AI-powered web application |
-| 💼 Portfolio | Interactive developer portfolio |
+| 💼 Portfolio Website | Interactive developer portfolio |
+| 📡 Monitoring System | Real-time monitoring platform |
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -78,5 +99,9 @@ Building modern websites, AI applications, and interactive digital experiences.
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=FikihRizaldi&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:6C63FF,100:3B82F6"/>
 
 </div>
