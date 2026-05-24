@@ -1,62 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fikih%20Rizaldi&fontSize=45&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:6C63FF,50:7C3AED,100:3B82F6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fikih%20Rizaldi&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:6C63FF,100:3B82F6"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Fullstack+Learner;Building+Creative+Digital+Experiences"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Building+Creative+Digital+Experiences"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/Based%20in-Indonesia-111827?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# ✨ About Me
 
-```javascript
-const fikih = {
-  role: [
-    "Frontend Developer",
-    "AI Engineer",
-    "Web Designer"
-  ],
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-  focus: [
-    "Modern UI/UX",
-    "AI Web Application",
-    "Interactive Website",
-    "Frontend Development"
-  ],
+### 👋 Hey, I'm Fikih Rizaldi
 
-  techStack: [
-    "React",
-    "Vite",
-    "PHP",
-    "Firebase",
-    "JavaScript"
-  ],
+🚀 Frontend Developer & AI Engineer from Indonesia  
+💻 Passionate about building modern websites, AI applications, and futuristic UI/UX experiences  
+⚡ Focused on creating interactive, clean, and impactful digital products
 
-  currentlyLearning: [
-    "Fullstack Development",
-    "Machine Learning",
-    "AI Integration"
-  ],
+<br/>
 
-  motto: "Build something modern and impactful 🚀"
-}
-```
+### 🧠 Currently Exploring
+
+- Modern Frontend Development
+- AI Integration & Automation
+- Fullstack Web Development
+- Creative UI/UX Design
 
 ---
 
-# ⚡ Tech Stack
+# ⚒️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,nextjs,tailwind,nodejs,php,mysql,firebase,python,tensorflow,figma,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,nodejs,php,mysql,firebase,python,tensorflow,figma,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -86,10 +69,10 @@ const fikih = {
 
 | 🚀 Project | 💡 Description |
 |---|---|
-| UpSite | Modern company website with futuristic UI |
-| AI Web App | AI-powered web application project |
-| Portfolio Website | Interactive personal portfolio |
-| Monitoring System | Real-time web monitoring platform |
+| 🌐 UpSite | Modern company profile website |
+| 🤖 AI Web App | AI-powered web application |
+| 💼 Portfolio Website | Interactive developer portfolio |
+| 📡 Monitoring System | Real-time monitoring platform |
 
 </div>
 
@@ -117,6 +100,6 @@ const fikih = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:7C3AED,100:3B82F6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:6C63FF,100:3B82F6"/>
 
 </div>
