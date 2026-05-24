@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fikih%20Rizaldi&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:6C63FF,100:3B82F6"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Building+Creative+Digital+Experiences"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Building+Creative+Digital+Experiences"/>
 
 <br/>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FikihRizaldi&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
+<img src="https://streak-stats.demolab.com?user=FikihRizaldi&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
 
 </div>
 
