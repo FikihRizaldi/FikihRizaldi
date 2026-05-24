@@ -1,34 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fikih%20Rizaldi&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:6C63FF,100:3B82F6"/>
+# Fikih Rizaldi
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Building+Creative+Digital+Experiences"/>
+### Frontend Developer • AI Engineer • UI/UX Designer
+
+Building modern websites, AI applications, and interactive digital experiences.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Frontend%20Developer-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Engineer-3B82F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Designer-8B5CF6?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Fullstack+Learner"/>
 
 </div>
 
 ---
 
-# ✨ About Me
+## 🚀 About Me
 
-🚀 Frontend Developer & AI Engineer from Indonesia
-
-💻 Passionate about:
-- Modern UI/UX
-- AI Web Applications
-- Interactive Websites
-- Fullstack Development
-
-⚡ Building modern and impactful digital experiences.
+- 💻 Passionate about modern website development
+- 🤖 Interested in AI & automation systems
+- 🎨 Love creating clean and futuristic UI/UX
+- ⚡ Currently learning Fullstack & AI Integration
 
 ---
 
-# ⚒️ Tech Stack
+## ⚒️ Tech Stack
 
 <div align="center">
 
@@ -38,7 +33,7 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -46,9 +41,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikihRizaldi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=FikihRizaldi&theme=tokyonight&hide_border=true"/>
 
@@ -56,17 +49,17 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
-| 🌐 UpSite | Modern company website |
-| 🤖 AI Web App | AI-powered application |
-| 💼 Portfolio Website | Interactive personal portfolio |
+| 🌐 UpSite | Modern company profile website |
+| 🤖 AI Web App | AI-powered web application |
+| 💼 Portfolio | Interactive developer portfolio |
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
