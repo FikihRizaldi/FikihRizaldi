@@ -48,12 +48,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FikihRizaldi&show_icons=false&theme=tokyonight&hide_border=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikihRizaldi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=FikihRizaldi&theme=tokyonight&hide_border=true" />
 </p>
 
