@@ -1,50 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Fikih%20Rizaldi&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Fikih+Rizaldi;Frontend+Developer;Modern+Web+Designer;AI+Enthusiast"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Modern+Web+Designer;AI+Enthusiast;Building+Creative+Digital+Experiences"/>
+<br/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=FikihRizaldi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
-
-# 💫 About Me
-
-```javascript
-const fikih = {
-  location: "Indonesia",
-  role: "Frontend Developer",
-  focus: ["React", "Modern UI/UX", "AI Web App"],
-  currentlyLearning: ["Fullstack", "Machine Learning"],
-  goal: "Build a successful digital agency 🚀"
-}
-```
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,php,mysql,firebase,nodejs,figma,git,github,vscode&perline=7"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FikihRizaldi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikihRizaldi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikihRizaldi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=FikihRizaldi&theme=tokyonight&hide_border=true"/>
 
@@ -52,45 +14,37 @@ const fikih = {
 
 ---
 
-# 🐍 Contribution Snake
+## 🚀 About Me
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/FikihRizaldi/FikihRizaldi/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### 🌐 UpSite
-Modern website agency with futuristic UI and responsive design.
-
-### 🤖 AI Project
-AI-powered web application and automation system.
-
-### 💼 Company Website
-Professional company profile website with modern animation.
+```js
+const fikih = {
+  role: "Frontend Developer",
+  focus: ["React", "Modern UI/UX", "AI Web"],
+  currentlyLearning: ["Fullstack", "Machine Learning"],
+  goal: "Build modern digital experiences"
+}
+```
 
 ---
 
-# 🌐 Connect With Me
+## 🛠 Tech Stack
 
 <p align="center">
-<a href="https://github.com/FikihRizaldi">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,php,mysql,firebase,figma,git,github,vscode&perline=6"/>
 </p>
 
 ---
 
-<div align="center">
+## 🌐 Featured Project
 
-<img src="https://komarev.com/ghpvc/?username=FikihRizaldi&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-
-</div>
+- 🚀 UpSite — Modern company website
+- 🤖 AI Web App Project
+- 💼 Interactive Portfolio Website
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=FikihRizaldi&color=6C63FF&style=for-the-badge"/>
+
+</div>
