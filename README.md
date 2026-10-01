@@ -86,7 +86,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=FikihRizaldi&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 
 <br/><br/>
 
