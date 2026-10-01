@@ -18,10 +18,6 @@
 <br/>
 
 <!-- Core Philosophy Badge -->
-<p>
-  <code>01001000 01110101 01101101 01100001 01101110</code><br/>
-  <strong><code>Human Image → Binary Data → Digital Identity</code></strong>
-</p>
 
 <!-- Specialization Badges -->
 <p>
