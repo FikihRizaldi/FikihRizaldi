@@ -2,12 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fikih%20Rizaldi&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:6C63FF,100:3B82F6"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Building+Creative+Digital+Experiences"/>
+<br/>
+
+<img src="./assets/binary-fikih.png" width="420" alt="Fikih Rizaldi - Binary Digital Identity" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;AI+Engineer;Fullstack+Developer;Building+Creative+Digital+Experiences"/>
+
+<br/>
+
+<p><em><code>Human Image → Binary Data → Digital Identity</code></em></p>
+
 <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fullstack%20Developer-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 
 </div>
