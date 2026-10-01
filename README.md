@@ -68,7 +68,7 @@ struct Developer {
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF" style="border-radius: 12px;"/>
+<img width="100%" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" alt="Coding GIF" style="border-radius: 12px;"/>
 
 </td>
 </tr>
@@ -115,12 +115,12 @@ struct Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FikihRizaldi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=94A3B8&icon_color=A855F7&bg_color=0D1117" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FikihRizaldi&theme=tokyonight&hide_border=true&stroke=00F5FF&ring=8B5CF6&fire=00F5FF&background=0D1117" alt="GitHub Streak" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=FikihRizaldi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=94A3B8&icon_color=A855F7&bg_color=0D1117" alt="GitHub Stats" />
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=FikihRizaldi&theme=tokyonight&hide_border=true&stroke=00F5FF&ring=8B5CF6&fire=00F5FF&background=0D1117" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikihRizaldi&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikihRizaldi&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 
@@ -140,9 +140,8 @@ struct Developer {
   <img src="https://img.shields.io/badge/Portfolio_Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:fikihrizaldi31@students.amikom.ac.id" target="_blank">
-  <img src="https://img.shields.io/badge/Email-090D16?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=090D16"/>
-</a>
+
+ 
 
 <br/><br/>
 
@@ -150,7 +149,7 @@ struct Developer {
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090D16,50:1E1B4B,100:06B6D4"/>
 
 <p align="center">
-  <sub><code>01000100 01101111 01101110 01100101 // BUILT WITH PASSION BY FIKIH RIZALDI</code></sub>
+  <sub><code>BUILT WITH PASSION BY FIKIH RIZALDI</code></sub>
 </p>
 
 </div>
