@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<a href="https://github.com/FikihRizaldi">
+<a href="https://fikihporto.vercel.app/">
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
